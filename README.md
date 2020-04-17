@@ -15,14 +15,24 @@
 ### My 3rd PDU
 - Business Analysis 2019: Managing Requirement Risks – A Different Perspective
   - https://www.projectmanagement.com/videos/611262/Business-Analysis-2019--Importance-of-Communication-in-a-Business-Analysis-Role
-  - Status: watching in progress
+  - Status: DONE
 
 ### My 4th PDU
+- Destination Imagination: Teaching Youth the Importance of Project Management
+  - https://www.projectmanagement.com/videos/604066/Destination-Imagination--Teaching-Youth-the-Importance-of-Project-Management
+  - Status: watching in progress
+
+### My 5th PDU
 - x
   - x
   - x
 
-### My 5th PDU
+### My 6th PDU
+- x
+  - x
+  - x
+
+### My 7th PDU
 - x
   - x
   - x
