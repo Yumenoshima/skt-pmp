@@ -45,5 +45,9 @@
   
 
 
+## Preparing for the exam
+
+### 120 free PMP exam questions
+- https://www.project-management-prepcast.com/pmp-practice-exam-questions-sample-test/
 
 
