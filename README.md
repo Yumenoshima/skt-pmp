@@ -1,5 +1,9 @@
 # PMP
 
+## download PMBOK guide
+- https://www.pmi.org/pmbok-guide-standards/foundational/pmbok
+
+
 ## getting PDUs
 
 ### My 1st PDU
